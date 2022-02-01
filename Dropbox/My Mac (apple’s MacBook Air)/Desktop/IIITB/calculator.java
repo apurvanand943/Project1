@@ -1,3 +1,4 @@
+//just a faltu statement//
 import java.util.Scanner;
 
  public class calculator
